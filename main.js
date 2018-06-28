@@ -91,9 +91,10 @@ function install(options) {
 
   
     if (hasSW()) {
+      console.log("11111111ming:",ServiceWorker.location)
       var registration = navigator.serviceWorker
         .register(
-          "\\sw.js"
+          "\\sw.1530153178654.js"
           
         );
 

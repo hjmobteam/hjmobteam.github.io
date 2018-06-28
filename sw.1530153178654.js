@@ -10,37 +10,37 @@ var __wpo = {
       "/courier-prime-webfont.woff2"
     ],
     "optional": [
-      "/android-chrome-192x192.png",
-      "/android-chrome-512x512.png",
       "/browserconfig.xml",
       "/apple-touch-icon.png",
-      "/favicon-32x32.png",
       "/favicon-16x16.png",
+      "/android-chrome-512x512.png",
+      "/android-chrome-192x192.png",
       "/manifest.json",
+      "/mstile-150x150.png",
       "/favicon.ico",
-      "/mstile-150x150.png"
+      "/favicon-32x32.png"
     ]
   },
   "externals": [],
   "hashesMap": {
     "6e6ca78cb5d9de76f32107f3c3cfc3b0549c70f3": "/courier-prime-webfont.woff",
     "3c3414b444207e373d8d4f2aaeeafad78ce0483c": "/courier-prime-webfont.woff2",
-    "5f13493cdc4bb7a81a144fdd7c21f3acced10acc": "/main.js",
+    "b313fcb7aad00042ea44f640bd6056be46cd6677": "/main.js",
     "ea2995d789e1b81e1ad130c225f041c3aaba2e2f": "/main.css",
     "a3ed6696726273968971184f913bafe5a8ab0225": "/",
-    "5bbfec267fe95a66c62d3d02cd5568dec8371820": "/android-chrome-192x192.png",
-    "444ce1509bbe176274baa4319a01485412ba9614": "/android-chrome-512x512.png",
     "8e842e6737a3e67c13fa8b75fecc0081bb01fe47": "/browserconfig.xml",
     "a6281f1e0d38f0e100ff0d55a67277ae304e5486": "/apple-touch-icon.png",
-    "cc19602b58ca1d578995908de78bf8a555ac24f5": "/favicon-32x32.png",
     "8087ff66cd3035a80a876d9e6b0a612a02a4647d": "/favicon-16x16.png",
+    "444ce1509bbe176274baa4319a01485412ba9614": "/android-chrome-512x512.png",
+    "5bbfec267fe95a66c62d3d02cd5568dec8371820": "/android-chrome-192x192.png",
     "d787619becf35ceddf7ea35bf1540e6546b2668d": "/manifest.json",
+    "8d0f29e9579822b13d56539f9ec4cd00cd595e9c": "/mstile-150x150.png",
     "3c71d720513579390e169b768d6d84d07834d9d4": "/favicon.ico",
-    "8d0f29e9579822b13d56539f9ec4cd00cd595e9c": "/mstile-150x150.png"
+    "cc19602b58ca1d578995908de78bf8a555ac24f5": "/favicon-32x32.png"
   },
   "strategy": "changed",
   "responseStrategy": "cache-first",
-  "version": "2018-6-26 10:10:45",
+  "version": "2018-6-28 10:32:59",
   "name": "webpack-offline",
   "pluginVersion": "4.9.1",
   "relativePaths": false
