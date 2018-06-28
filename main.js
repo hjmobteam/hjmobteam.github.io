@@ -94,7 +94,7 @@ function install(options) {
       console.log("11111111ming:",ServiceWorker.location)
       var registration = navigator.serviceWorker
         .register(
-          "\\sw.1530153178654.js"
+          "\\sw.aa"
           
         );
 
